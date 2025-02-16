@@ -6,5 +6,11 @@
 ! Homepage: https://https://github.com/omniroot/zenify-ublock-list
 
 
-! ya.ru
+! https://ya.ru
 ya.ru##.headline
+ya.ru##div.body__content:nth-of-type(3)
+
+
+! https://translate.yandex.ru
+translate.yandex.ru##.popularTranslations
+translate.yandex.ru##.footer

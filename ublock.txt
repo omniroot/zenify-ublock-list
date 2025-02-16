@@ -1,3 +1,10 @@
+[Adblock Plus 3.13]
+! Title: Zenify weird sites
+! Version: 1.0
+! Expires: 3 days
+! Description: Are you tired of weird uglu sites? This list fix this!
+! Homepage: https://https://github.com/omniroot/zenify-ublock-list
+
 
 ! ya.ru
 ya.ru##.headline

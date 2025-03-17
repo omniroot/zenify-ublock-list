@@ -21,6 +21,8 @@ www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-re
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(4)
 www.youtube.com###voice-search-button
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+www.youtube.com###button-shape > .yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+www.youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer:nth-of-type(1)
 
 ! https://ya.ru
 ya.ru##.headline
